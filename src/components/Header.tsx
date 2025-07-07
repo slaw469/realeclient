@@ -34,7 +34,7 @@ const Header = () => {
           {/* Logo */}
           <div className="flex items-center">
             <img 
-              src="/images/logo.png" 
+              src="/logo.png" 
               alt="The Perry Group Logo" 
               className="h-12 w-auto mr-4"
             />

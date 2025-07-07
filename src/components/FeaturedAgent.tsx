@@ -34,7 +34,7 @@ const FeaturedAgent = () => {
           <div className="relative">
             <div className="aspect-square bg-gradient-to-br from-blue-100 to-blue-200 rounded-2xl overflow-hidden">
               <img
-                src="/images/headshot.webp"
+                src="/headshot.webp"
                 alt="Connor Lyon"
                 className="w-full h-full object-cover"
               />
